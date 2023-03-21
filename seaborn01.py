@@ -11,5 +11,3 @@ plt.show()
 # 绘图显示 - 02. 核密度估计图
 sns.kdeplot(df['sepal_width'])
 plt.show()
-
-df
